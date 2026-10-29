@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing Subtitle (100% Tested & Working) -->
   <a href="https://github.com/shivakumar-bommineni">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+React.js+%26+Next.js;Enterprise+LMS+Architect+(Schneider+Electric);Node.js%2C+Express+%26+PostgreSQL+Specialist;MCA+Topper+(9.8+CGPA)+%7C+Hyderabad%2C+India;Open+to+Relocation+%26+Immediate+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+React.js+%26+Next.js;Enterprise+LMS+Architect+(Schneider+Electric);Node.js%2C+Express+%26+PostgreSQL+Specialist;Open+to+Relocation+%26+Immediate+Opportunities" alt="Typing SVG" />
   </a>
 
   <p align="center">
