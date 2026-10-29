@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Typing SVG -->
-  <a href="https://github.com/shivakumar-bommineni-git">
+  <a href="https://github.com/shivakumar-bommineni">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shivakumar+Bommineni+👋;Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+Enterprise+Web+Apps+%26+Cloud+APIs;MCA+Gold+Standard+(9.8+CGPA)+%7C+Hyderabad%2C+India" alt="Typing SVG" />
   </a>
 
@@ -34,10 +34,7 @@
 ```yaml
 name: Bommineni Shivakumar
 current_role: Full Stack Developer @ CHRP-INDIA
-specialization: Modern Frontend (React, Next.js) & Robust Backends (Node.js, Express, PostgreSQL)
-education:
-  degree: Master of Computer Applications (MCA)
-  cgpa: 9.8 / 10 🏆
+specialization: Modern Frontend (React, Next.js) & Robust Backends (Node.js, Express, PostgreSQL.
 location: Hyderabad, Telangana, India (Open to Relocation 🌍)
 experience_level: 1.8+ Years of Professional Enterprise Engineering
 interests: [System Architecture, Cloud APIs, Encrypted Media Streaming, Scalable UI/UX]
